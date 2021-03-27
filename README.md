@@ -25,7 +25,8 @@ The core parts of our project involve the `Arduino NANO` which serves as our mic
 ## Making the required Connections
 Once we have all the components required for this project, we then proceed further on making the connections. Here a schematic representation for the same.
 
-![](https://drive.google.com/file/d/1TXhSpD1BJTntmmfhsPvmSosJ8fwLd5R6/view?usp=sharing)
+<img width="482" alt="Screenshot 2021-03-27 at 4 06 20 PM" src="https://user-images.githubusercontent.com/55917035/112719648-eb566d00-8f1f-11eb-961d-ae684109d66e.png">
+
 
 ## Coding our Project
 
